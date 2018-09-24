@@ -1,5 +1,5 @@
 let  heroes;
-fetch("https://my.api.mockaroo.com/users.json?key=79a35aa0&qty=3")
+fetch("https://my.api.mockaroo.com/hahaha.json?key=33ef33a0&qty=3")
   .then(function(response) {
     return response.json();
   })
